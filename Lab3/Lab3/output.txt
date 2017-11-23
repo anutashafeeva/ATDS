@@ -1,0 +1,14 @@
+Элементы полугруппы:
+a       b       c       d       e       f       
+0 0 1   1 0 0   0 1 0   0 0 1   1 0 0   0 1 0   
+1 0 0   1 0 0   0 0 1   0 0 1   0 1 0   0 1 0   
+0 1 0   1 0 0   1 0 0   0 0 1   0 0 1   0 1 0   
+
+Таблица Кэли:
+  a b c d e f 
+a c b e d a f 
+b d b f d b f 
+c e b a d c f 
+d f b b d d f 
+e a b c d e f 
+f b b d d f f 
